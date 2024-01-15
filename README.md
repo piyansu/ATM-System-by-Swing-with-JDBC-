@@ -30,8 +30,8 @@ This project is an ATM (Automated Teller Machine) system implemented in Java Swi
 <img src="https://i.postimg.cc/T1WjpCYg/Whats-App-Image-2024-01-05-at-18-55-24-5fa5f692.jpg" alt="project-screenshot" width="1000" height="600/">
 
 
-<img src="https://i.postimg.cc/MTqzr1Dy/Whats-App-Image-2024-01-05-at-19-44-06-f0d8035d.jpg" alt="project-screenshot" width="400" height="400/">
-<img src="https://i.postimg.cc/JhFC8zy0/Whats-App-Image-2024-01-05-at-18-56-29-6556270a.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.postimg.cc/MTqzr1Dy/Whats-App-Image-2024-01-05-at-19-44-06-f0d8035d.jpg" alt="project-screenshot" width="1000" height="600/">
+<img src="https://i.postimg.cc/JhFC8zy0/Whats-App-Image-2024-01-05-at-18-56-29-6556270a.jpg" alt="project-screenshot" width="1000" height="600/">
 
 <img src="https://i.postimg.cc/1tqY6d6B/image.png" alt="project-screenshot" width="400" height="400/">
 
