@@ -1,3 +1,4 @@
+<p align="center"><img src="https://socialify.git.ci/piyansu/ATM-System-by-Swing-with-JDBC-/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 # ATM System with Java Swing and JDBC
 
 This project is an ATM (Automated Teller Machine) system implemented in Java Swing for the user interface and JDBC for database connectivity. It allows users to perform common banking operations such as viewing balance, making deposits, withdrawals, etc.
@@ -22,11 +23,11 @@ This project is an ATM (Automated Teller Machine) system implemented in Java Swi
    ```bash
    git clone https://github.com/your-username/atm-system.git
 
-<p align="center"><img src="https://socialify.git.ci/piyansu/ATM-System-by-Swing-with-JDBC-/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/T1WjpCYg/Whats-App-Image-2024-01-05-at-18-55-24-5fa5f692.jpg" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.postimg.cc/T1WjpCYg/Whats-App-Image-2024-01-05-at-18-55-24-5fa5f692.jpg" alt="project-screenshot" width="1000" height="600/">
 
 
 <img src="https://i.postimg.cc/MTqzr1Dy/Whats-App-Image-2024-01-05-at-19-44-06-f0d8035d.jpg" alt="project-screenshot" width="400" height="400/">
